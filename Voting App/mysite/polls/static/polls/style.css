@@ -1,0 +1,28 @@
+
+#card{
+    height: 650px;
+  width: 350px;
+}
+#foot{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+
+    
+}
+#foot a{
+    text-decoration: none;
+    color: black;
+}
+.card-header{
+    font-weight: bolder;
+}
+/*home.html*/
+
+#but{
+    margin-top: 20px;
+    margin-left: 600px;
+  }
+  
